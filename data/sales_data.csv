@@ -1,0 +1,15 @@
+Date,Product,Category,Quantity,Price,Region
+2024-01-05,Laptop,Electronics,2,55000,North
+2024-01-07,Mobile,Electronics,5,18000,South
+2024-01-10,Headphones,Accessories,10,2000,East
+2024-02-02,Laptop,Electronics,1,55000,West
+2024-02-08,Mobile,Electronics,3,18000,North
+2024-02-15,Chair,Furniture,4,3500,South
+2024-03-01,Table,Furniture,2,7000,East
+2024-03-05,Laptop,Electronics,3,55000,North
+2024-03-10,Headphones,Accessories,8,2000,West
+2024-03-18,Mobile,Electronics,6,18000,South
+2024-04-02,Chair,Furniture,5,3500,East
+2024-04-06,Table,Furniture,3,7000,North
+2024-04-15,Laptop,Electronics,2,55000,West
+2024-04-20,Headphones,Accessories,12,2000,South
