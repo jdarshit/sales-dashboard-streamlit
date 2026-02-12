@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 streamlit
 pandas
-=======
-streamlit
-pandas
->>>>>>> 05b4e1578d514d740c693014be716c2f7a47180a
+matplotlib
+seaborn
+plotly
+numpy
